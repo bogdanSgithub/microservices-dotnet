@@ -3,7 +3,7 @@ name: Wpm
 on:
   push:
      branches:
-       - 05_07e
+       - main
 
 jobs:
    build:
